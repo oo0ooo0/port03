@@ -184,7 +184,7 @@ function About() {
             </li>
           </ul>
           <a
-            href='https://drive.google.com/open?id=19TLC0y5zWTlCRB5JyFohlHt7ybjhRtS5'
+            href='https://docs.google.com/document/d/1vRglCjVo17zUrRQZzjDe5u29-UL_7YGDQZT3hRxOaTI/edit?usp=sharing'
             target='_blank'
             rel='noopener noreferrer'
           >
