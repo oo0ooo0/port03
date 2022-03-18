@@ -46,7 +46,17 @@ function Works() {
   return (
     <StyledWorks>
       <h2 className='title'>Work</h2>
-      
+      <Masonry
+        breakpointCols={columnNum}
+        className='my-masonry-grid container'
+        columnClassName='my-masonry-grid_column'
+      >
+        {Object.keys(works)
+          .reverse()
+          .map((key) => {
+            return <Item key={key} {...works[key]} />;
+          })}
+      </Masonry>
     </StyledWorks>
   );
 }
