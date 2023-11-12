@@ -67,7 +67,6 @@ function Contact() {
 
       <main className='container'>
         <div className='contactImg'>
-          <img src='img/Contact.jpeg' alt='컨택트 이미지'></img>
         </div>
         <div className='text-form'>
           <h4>Kwon-jamin</h4>
