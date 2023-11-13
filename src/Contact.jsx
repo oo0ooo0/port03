@@ -71,7 +71,7 @@ function Contact() {
         <div className='text-form'>
           <h4>Kwon-jamin</h4>
           <p>Web Publisher. Front-end Developer.</p>
-          <address>Gwanak-gu, Seoul, Republic of Korea</address>
+          <address>Dongdaemun-gu, Seoul, Republic of Korea</address>
           <div className='sns'>
             <a href='mailTo:kkjjajja@gmail.com' target='_blank' rel='noopener noreferrer'>
               Email: kkjjajja@gmail.com
